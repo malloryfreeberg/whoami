@@ -1,37 +1,17 @@
 ## Mallory Freeberg, PhD
 
-You can use the [editor on GitHub](https://github.com/malloryfreeberg/personal_website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am the Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human data jointly run by EMBL-EBI and the Centre for Genomic Regulation. In my role, I am responsible for overall delivery of EGA services and coordinating the EGA roadmap with external project partners. Prior to becoming Coordinator, I was the Project Lead for coordinating the archiving and distribution of whole genome sequencing data from the UK Biobank resource. I joined EMBL-EBI in 2017 as part of the Human Cell Atlas (HCA) Data Coordination Platform team, where I developed the HCA metadata standard and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
 
-### Markdown
+After completing my Bachelor of Science degree in Bioinformatics at Saint Vincent College, I earned my PhD in Bioinformatics at the University of Michigan studying post-transcriptional gene regulation in the model organisms _C. elegans_ (nematode) and _S. cerevisiae_ (budding yeast). In nematodes, I studied mechanisms and expression of small, regulatory RNAs including microRNAs and germline-specific piRNAs. In both nematodes and budding yeast, I studied protein-RNA interactions and how they contribute to post-transcriptional gene regulation. I then completed a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through reanalysis of published deep sequencing data. Additionally, I piloted experiments to directly sequence full-length messenger RNAs in nematodes using nanopore sequencing technologies to explore the diversity of the nematode transcriptome.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+[Public ORCID ID record](https://orcid.org/0000-0003-2949-3921)
 
-# Header 1
-## Header 2
-### Header 3
+### Open Science
 
-- Bulleted
-- List
+I love Open Science!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malloryfreeberg/personal_website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Follow me on Twitter!](https://twitter.com/MalloryFreeberg)
