@@ -8,11 +8,12 @@ After completing my Bachelor of Science degree in Bioinformatics at Saint Vincen
 
 ### Academic record
 
-[ORCID ID record](https://orcid.org/0000-0003-2949-3921)
+* [ORCID ID record](https://orcid.org/0000-0003-2949-3921)
+* [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
 
 ### Interests
 
-I love all things Open: Science, Data, Communities, Software, Workflows, etc.
+I love all things Open: Science, Data, Communities, Software, Workflows.
 
 ### Communities
 
@@ -21,3 +22,4 @@ Some really cool communities I am/have been a part of:
 * [Open Life Science](https://openlifesci.org/)
 * [Galaxy Training Network](https://training.galaxyproject.org/)
 * [Global Alliance for Genomics & Health](https://www.ga4gh.org/)
+* [Human Cell Atlas](https://www.humancellatlas.org/)
