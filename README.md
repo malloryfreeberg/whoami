@@ -1,6 +1,4 @@
-## Mallory Freeberg, PhD
-
-### Hello!
+## Hello!
 
 I am the Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human data jointly run by EMBL-EBI and the Centre for Genomic Regulation. In my role, I am responsible for overall delivery of EGA services and coordinating the EGA roadmap with external project partners. Prior to becoming Coordinator, I was the Project Lead for coordinating the archiving and distribution of whole genome sequencing data from the UK Biobank resource. I joined EMBL-EBI in 2017 as part of the Human Cell Atlas (HCA) Data Coordination Platform team, where I developed the HCA metadata standard and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
 
