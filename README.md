@@ -6,7 +6,7 @@ After completing my Bachelor of Science degree in Bioinformatics at Saint Vincen
 
 [Follow me on Twitter!](https://twitter.com/MalloryFreeberg) - Mostly science-related posts / retweets
 
-### Publications
+### Academic record
 
 [ORCID ID record](https://orcid.org/0000-0003-2949-3921)
 
@@ -14,7 +14,7 @@ After completing my Bachelor of Science degree in Bioinformatics at Saint Vincen
 
 I love all things Open: Science, Data, Communities, Software, Workflows, etc.
 
-### Collaborations
+### Communities
 
 Some really cool communities I am/have been a part of:
 
