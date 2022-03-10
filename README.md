@@ -4,12 +4,20 @@ I am the Coordinator for the [European Genome-phenome Archive](https://ega-archi
 
 After completing my Bachelor of Science degree in Bioinformatics at Saint Vincent College, I earned my PhD in Bioinformatics at the University of Michigan studying post-transcriptional gene regulation in the model organisms _C. elegans_ (nematode) and _S. cerevisiae_ (budding yeast). In nematodes, I studied mechanisms and expression of small, regulatory RNAs including microRNAs and germline-specific piRNAs. In both nematodes and budding yeast, I studied protein-RNA interactions and how they contribute to post-transcriptional gene regulation. I then completed a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through reanalysis of published deep sequencing data. Additionally, I piloted experiments to directly sequence full-length messenger RNAs in nematodes using nanopore sequencing technologies to explore the diversity of the nematode transcriptome.
 
+[Follow me on Twitter!](https://twitter.com/MalloryFreeberg) - Mostly science-related posts / retweets
+
 ### Publications
 
-[Public ORCID ID record](https://orcid.org/0000-0003-2949-3921)
+[ORCID ID record](https://orcid.org/0000-0003-2949-3921)
 
-### Open Science
+### Interests
 
-I love Open Science!
+I love all things Open: Science, Data, Communities, Software, Workflows, etc.
 
-[Follow me on Twitter!](https://twitter.com/MalloryFreeberg)
+### Collaborations
+
+Some really cool communities I am/have been a part of:
+
+* [Open Life Science](https://openlifesci.org/)
+* [Galaxy Training Network](https://training.galaxyproject.org/)
+* [Global Alliance for Genomics & Health](https://www.ga4gh.org/)
