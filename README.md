@@ -6,15 +6,6 @@ After completing my Bachelor of Science degree in Bioinformatics at Saint Vincen
 
 [Follow me on Twitter!](https://twitter.com/MalloryFreeberg) - Mostly science-related posts / retweets
 
-### Academic record
-
-* [ORCID ID](https://orcid.org/0000-0003-2949-3921)
-* [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
-
-### Interests
-
-I love all things Open: Science, Data, Communities, Software, Workflows.
-
 ### Communities
 
 Some really cool communities I am/have been a part of:
@@ -33,4 +24,15 @@ A policy-framing and technical standards-setting organization seeking to enable 
 
 #### [Human Cell Atlas](https://www.humancellatlas.org/)
 
-An international group of researchers aiming to create comprehensive reference maps of all human cells — the fundamental units of life — as a basis for both understanding human health and diagnosing, monitoring, and treating disease.
+An international group of researchers aiming to create comprehensive reference maps of all human cells — the fundamental units of life — as a basis for both understanding human health and diagnosing, monitoring, and treating disease
+
+### Academic record
+
+* [ORCID ID](https://orcid.org/0000-0003-2949-3921)
+* [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
+
+### Interests
+
+I love all things Open Science: open data, open and welcoming cmmunities, open software/hardware, open workflows, oh my!
+
+I love mentoring and coaching individuals to help them achieve their goals, both professional/academci and personal.
