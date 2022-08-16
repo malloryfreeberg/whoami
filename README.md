@@ -12,7 +12,7 @@ I have been fortunate to be involved in projects like the HCA and EGA, and I wil
 
 [Follow me on Twitter!](https://twitter.com/MalloryFreeberg) - Mostly science-related posts / retweets
 
-### Communities
+### Communities :+1:
 
 Some really cool communities that I am proud to be associated with:
 
