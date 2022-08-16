@@ -39,6 +39,6 @@ An international group of researchers aiming to create comprehensive reference m
 
 ### Interests
 
-I love all things Open Science: open data, open and welcoming communities, open software/hardware, open workflows, open publishing and peer-reviewing, oh my!
+I love all things Open Science: open data, open and welcoming communities, open software, open workflows, open training materials, open publishing and peer-reviewing, oh my!
 
 I love mentoring and coaching individuals to help them achieve their professional and personal goals.
