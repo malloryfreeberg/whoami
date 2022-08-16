@@ -4,3 +4,5 @@ description: US expat living in UK | Building Communities and Collaborations | B
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jemoji
