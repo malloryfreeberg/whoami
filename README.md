@@ -20,19 +20,19 @@ Some really cool communities that I am proud to be associated with:
 
 A mentoring and training program for Open Science ambassadors
 
-#### [Galaxy Training Network](https://training.galaxyproject.org/)
-
-A collection of open tutorials developed and maintained by the worldwide Galaxy community
-
 #### [Global Alliance for Genomics & Health](https://www.ga4gh.org/)
 
 A policy-framing and technical standards-setting organization seeking to enable responsible genomic data sharing within a human rights framework
+
+#### [Galaxy Training Network](https://training.galaxyproject.org/)
+
+A collection of open tutorials developed and maintained by the worldwide Galaxy community
 
 #### [Human Cell Atlas](https://www.humancellatlas.org/)
 
 An international group of researchers aiming to create comprehensive reference maps of all human cells — the fundamental units of life — as a basis for both understanding human health and diagnosing, monitoring, and treating disease
 
-### Academic record
+### Academic record :nerd_face:
 
 * [ORCID ID](https://orcid.org/0000-0003-2949-3921)
 * [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
