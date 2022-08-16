@@ -2,7 +2,7 @@
 
 Currently I am Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human data. I am based at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) based in Cambridge, UK. I am responsible for delivery of EGA services and coordinating the EGA roadmap with our collaborators to support our strategic goals. Prior to becoming Coordinator, I was the Project Lead for coordinating archive and distribution of whole genome sequencing data from the UK Biobank resource. I joined EMBL-EBI in 2017 as part of the [Human Cell Atlas (HCA) Data Coordination Platform](https://data.humancellatlas.org/) team, where I developed the [HCA metadata standard](https://data.humancellatlas.org/metadata) and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
 
-### How did I get here?
+### How did I get here :question:
 
 After completing my BSc degree in Bioinformatics at Saint Vincent College, I earned my PhD in Bioinformatics at the University of Michigan studying post-transcriptional gene regulation in the model organisms _C. elegans_ (nematode) and _S. cerevisiae_ (budding yeast). I studied mechanisms of regulation and expression of small, functional RNAs including microRNAs and germline-specific piRNAs. I also studied protein-RNA interactions and how they contribute to post-transcriptional gene regulation. If interested, you can read more in [my public thesis](https://deepblue.lib.umich.edu/handle/2027.42/111339). 
 
@@ -12,7 +12,7 @@ I have been fortunate to be involved in projects like the HCA and EGA, and I wil
 
 [Follow me on Twitter!](https://twitter.com/MalloryFreeberg) - Mostly science-related posts / retweets
 
-### Communities :+1:
+### Communities :raised_hands:
 
 Some really cool communities that I am proud to be associated with:
 
@@ -37,7 +37,7 @@ An international group of researchers aiming to create comprehensive reference m
 * [ORCID ID](https://orcid.org/0000-0003-2949-3921)
 * [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
 
-### Interests
+### Interests :heart:
 
 I love all things Open Science: open data, open and welcoming communities, open software, open workflows, open training materials, open publishing and peer-reviewing, oh my!
 
