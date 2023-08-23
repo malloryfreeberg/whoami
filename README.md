@@ -6,9 +6,11 @@ Currently I am Coordinator for the [European Genome-phenome Archive](https://ega
 
 After completing my BSc degree in Bioinformatics at Saint Vincent College, I earned my PhD in Bioinformatics at the University of Michigan studying post-transcriptional gene regulation in the model organisms _C. elegans_ (nematode) and _S. cerevisiae_ (budding yeast). I studied mechanisms of regulation and expression of small, functional RNAs including microRNAs and germline-specific piRNAs. I also studied protein-RNA interactions and how they contribute to post-transcriptional gene regulation. If interested, you can read more in [my public thesis](https://deepblue.lib.umich.edu/handle/2027.42/111339). 
 
-I completed a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through re-analysis of published deep sequencing data. I also piloted experiments directly sequencing full-length messenger RNAs in nematodes using nanopore sequencing to explore the diversity of the nematode transcriptome. During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training and realised my passion is supporting "Science as a Service" resources. 
+I completed a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through re-analysis of published deep sequencing data. I also piloted experiments directly sequencing full-length messenger RNAs in nematodes using nanopore sequencing to explore the diversity of the nematode transcriptome. During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training and realised my passion is in "Science as a Service" - the building and maintaining of scientific services and infrastructure to support all researchers across the life sciences.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/) or follow me on [Twitter/X](https://twitter.com/MalloryFreeberg)!
+
+Check out [my CV](cv/MFreeberg_CV.pdf)!
 
 ### Communities :raised_hands:
 
@@ -40,12 +42,12 @@ An international group of researchers aiming to create comprehensive reference m
 * [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
 * [LinkedIn profile](https://www.linkedin.com/in/mallory-freeberg/)
 * [GitHub profile](https://github.com/malloryfreeberg)
-* [Download my CV](cv/MFreeberg_CV.pdf)
-* <a href="cv/MFreeberg_CV.pdf" target="_blank" download>test</a>
-
+* [View my CV](cv/MFreeberg_CV.pdf)
 
 ### Interests :heart:
 
-I love all things Open Science: open data, open and welcoming communities, open software, open workflows, open training materials, open publishing and peer-reviewing, oh my!
+:open_hands: I love all things Open Science: open data, open and welcoming communities, open software, open workflows, open training materials, open publishing and peer-reviewing, oh my!
 
-I love mentoring individuals to help them achieve their professional and personal goals.
+:sparkles: I love bringing people together who share common goals and have complementary talents to make great science happen 
+
+:seedling: I love mentoring people to help them achieve their professional and personal goals
