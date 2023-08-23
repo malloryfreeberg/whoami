@@ -40,7 +40,7 @@ An international group of researchers aiming to create comprehensive reference m
 * [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
 * [LinkedIn profile](https://www.linkedin.com/in/mallory-freeberg/)
 * [GitHub profile](https://github.com/malloryfreeberg)
-* [Download my CV]()
+* [Download my CV](cv/MFreeberg_CV.pdf)
 
 ### Interests :heart:
 
