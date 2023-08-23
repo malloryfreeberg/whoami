@@ -41,6 +41,8 @@ An international group of researchers aiming to create comprehensive reference m
 * [LinkedIn profile](https://www.linkedin.com/in/mallory-freeberg/)
 * [GitHub profile](https://github.com/malloryfreeberg)
 * [Download my CV](cv/MFreeberg_CV.pdf)
+* <a href="cv/MFreeberg_CV.pdf" target="_blank" download>test</a>
+
 
 ### Interests :heart:
 
