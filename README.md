@@ -1,12 +1,12 @@
 ## Hello, and Welcome!
 
-Currently I am Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human omics data. I am based at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) in Cambridge, UK. I am responsible for delivery of EGA services and coordinating the EGA roadmap with our collaborators to support our strategic goals. Prior to becoming Coordinator, I was the Project Lead for coordinating archive and distribution of whole genome sequencing data from the UK Biobank resource. I joined EMBL-EBI in 2017 as part of the [Human Cell Atlas (HCA) Data Coordination Platform](https://data.humancellatlas.org/) team, where I developed the [HCA metadata standard](https://data.humancellatlas.org/metadata) and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
+Currently I am Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human omics data. I am based at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) in Cambridge, UK. I am responsible for delivery of EGA services and coordinating the EGA roadmap with our collaborators to support our strategic goals. Prior to becoming Coordinator, I was the Project Lead for coordinating archive and distribution of whole genome sequencing data from the [UK Biobank](https://www.ukbiobank.ac.uk/) resource. I joined EMBL-EBI in 2017 as part of the [Human Cell Atlas (HCA) Data Coordination Platform](https://data.humancellatlas.org/) team, where I developed the [HCA metadata standard](https://data.humancellatlas.org/metadata) and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
 
 ### How did I get here :question:
 
 After completing my BSc degree in Bioinformatics at Saint Vincent College, I earned my PhD in Bioinformatics at the University of Michigan studying post-transcriptional gene regulation in the model organisms _C. elegans_ (nematode) and _S. cerevisiae_ (budding yeast). I studied mechanisms of regulation and expression of small, functional RNAs including microRNAs and germline-specific piRNAs. I also studied protein-RNA interactions and how they contribute to post-transcriptional gene regulation. If interested, you can read more in [my public thesis](https://deepblue.lib.umich.edu/handle/2027.42/111339). 
 
-I then started a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through re-analysis of published deep sequencing data. I also piloted experiments directly sequencing full-length messenger RNAs in nematodes using nanopore sequencing to explore the diversity of the nematode transcriptome. During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training and realised my passion is supporting "Science as a Service" resources. 
+I completed a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through re-analysis of published deep sequencing data. I also piloted experiments directly sequencing full-length messenger RNAs in nematodes using nanopore sequencing to explore the diversity of the nematode transcriptome. During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training and realised my passion is supporting "Science as a Service" resources. 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/) or follow me on [Twitter/X](https://twitter.com/MalloryFreeberg)!
 
@@ -40,6 +40,7 @@ An international group of researchers aiming to create comprehensive reference m
 * [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
 * [LinkedIn profile](https://www.linkedin.com/in/mallory-freeberg/)
 * [GitHub profile](https://github.com/malloryfreeberg)
+* [Download my CV]()
 
 ### Interests :heart:
 
