@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.8.13)  5 SEP 2023 15:13
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.8.13)  5 SEP 2023 15:16
  restricted system commands enabled.
  file:line:error style messages enabled.
 **MFreeberg_CV.tex
@@ -49,7 +49,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.076 seconds
+luaotfload | main : initialization completed in 0.092 seconds
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -659,7 +659,7 @@ Here is how much of LuaTeX's memory you used:
 </System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></
 System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MFreeberg_CV.pdf (2 pages, 70527 bytes).
+Output written on MFreeberg_CV.pdf (2 pages, 70531 bytes).
 
 PDF statistics: 77 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
