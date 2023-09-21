@@ -8,7 +8,7 @@ After completing my BSc degree in Bioinformatics at Saint Vincent College, I ear
 
 I completed a postdoctoral fellowship at Johns Hopkins University, continuing my exploration of protein-RNA interactions through re-analysis of published deep sequencing data. I also piloted experiments directly sequencing full-length messenger RNAs in nematodes using nanopore sequencing to explore the diversity of the nematode transcriptome. 
 
-During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training and realised my passion is in "Science as a Service", specificall **building and maintaining scientific services and infrastructure to support all researchers across the life sciences**.
+During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training. These led to solidifying my passion for "Science as a Service", specifically **building and maintaining scientific services and infrastructure to support all researchers across the life sciences**.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/) or follow me on [Twitter/X](https://twitter.com/MalloryFreeberg)!
 
