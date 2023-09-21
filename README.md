@@ -28,7 +28,7 @@ A policy-framing and technical standards-setting organization seeking to enable 
 
 #### [ELIXIR](https://elixir-europe.org/)
 
-A European life sciences infrastructure organisation which brings together scientists from 23 countries and over 250 research institutes to build and run services that enable researchers to access and analyse data, to improve the value and impact of life science research on public health, the environment and the economy
+A European life sciences infrastructure organisation which brings together scientists from more than 23 countries and more than 250 research institutes to build and run services that enable researchers to access and analyse data, to improve the value and impact of life science research on public health, the environment and the economy
 
 #### [Galaxy Training Network](https://training.galaxyproject.org/)
 
