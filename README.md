@@ -1,6 +1,8 @@
 ## Hello, and Welcome!
 
-Currently I am Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human omics data. I am based at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) in Cambridge, UK. I am responsible for delivery of EGA services and coordinating the EGA roadmap with our collaborators to support our strategic goals. Prior to becoming Coordinator, I was the Project Lead for coordinating archive and distribution of whole genome sequencing data from the [UK Biobank](https://www.ukbiobank.ac.uk/) resource. I joined EMBL-EBI in 2017 as part of the [Human Cell Atlas (HCA) Data Coordination Platform](https://data.humancellatlas.org/) team, where I developed the [HCA metadata standard](https://data.humancellatlas.org/metadata) and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
+I am the Human Genomics Team Leader at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) in Cambridge, UK. In this role, I lead multiple teams contributing to the [Ensembl](https://www.ensembl.org/index.html) project, a foundational resource providing scientists with data and tools to study the genomes of a variety of organisms, including humans. I am also responsible for key human variation interpretation services hosted at EBI including the [DECIPHER](https://www.deciphergenomics.org/) and [Gene2Phenotype](https://www.ebi.ac.uk/gene2phenotype) platforms. 
+
+Previously, I was Coordinator for the [European Genome-phenome Archive](https://ega-archive.org/) (EGA), a controlled access resource for managing sensitive human omics data, where I was responsible for delivery of EGA services and coordinating projects with our collaborators to support our strategic goals. Prior to this, I was the EGA Project Lead for coordinating archive and distribution of nearly 20PB of whole genome sequencing data from the [UK Biobank](https://www.ukbiobank.ac.uk/) resource. I joined EMBL-EBI in 2017 as part of the [Human Cell Atlas (HCA) Data Coordination Platform](https://data.humancellatlas.org/) team, where I developed the [HCA metadata standard](https://data.humancellatlas.org/metadata) and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
 
 ### How did I get here :question:
 
@@ -10,7 +12,7 @@ I completed a postdoctoral fellowship at Johns Hopkins University, continuing my
 
 During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training. These led to solidifying my passion for "Science as a Service", specifically **building and maintaining scientific services and infrastructure to support all researchers across the life sciences**.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/) or follow me on [Twitter/X](https://twitter.com/MalloryFreeberg)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/)!
 
 Check out [my CV](cv/MFreeberg_CV.pdf)!
 
