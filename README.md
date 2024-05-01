@@ -12,7 +12,7 @@ I completed a postdoctoral fellowship at Johns Hopkins University, continuing my
 
 During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published sequencing datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training. These led to solidifying my passion for "Science as a Service", specifically **building and maintaining scientific services and infrastructure to support all researchers across the life sciences**.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/) or follow me on [Twitter/X](https://twitter.com/MalloryFreeberg)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/)!
 
 Check out [my CV](cv/MFreeberg_CV.pdf)!
 
