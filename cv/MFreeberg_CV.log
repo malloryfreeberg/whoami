@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.7)  27 AUG 2024 10:33
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.7)  28 AUG 2024 11:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **MFreeberg_CV.tex
@@ -481,14 +481,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 61.
-
-Overfull \hbox (16.54578pt too wide) in paragraph at lines 171--172
-\TU/Helvetica(0)/m/n/10 col-lab-o-ra-tive clin-i-cal re-search and di-ag-no-sis of rare dis-eases. \TU/Helvetica(0)/m/it/10 Cell Ge-nomics\TU/Helvetica(0)/m/n/10 . DOI:[][]10.1016/j.xgen.2022.100246[][] 
- []
-
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 360--368
+
+ []
+
 [2]
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -502,17 +501,17 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:619,3:367,4:169,5:39,6:122,7:11633,8:1,9:513,10:4,11:1014
+   avail lists: 2:619,3:367,4:169,5:39,6:122,7:11540,8:1,9:513,10:4,11:990
  34037 multiletter control sequences out of 65536+600000
  46 fonts using 8314791 bytes
  79i,8n,89p,397b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></
 System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MFreeberg_CV.pdf (2 pages, 69499 bytes).
+Output written on MFreeberg_CV.pdf (2 pages, 69525 bytes).
 
-PDF statistics: 74 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+PDF statistics: 73 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
