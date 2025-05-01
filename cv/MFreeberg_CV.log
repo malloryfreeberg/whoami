@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.7)  1 MAY 2025 08:28
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.7)  1 MAY 2025 08:30
  restricted system commands enabled.
  file:line:error style messages enabled.
 **MFreeberg_CV.tex
@@ -529,7 +529,7 @@ Here is how much of LuaTeX's memory you used:
 </System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></
 System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MFreeberg_CV.pdf (3 pages, 73565 bytes).
+Output written on MFreeberg_CV.pdf (3 pages, 73554 bytes).
 
 PDF statistics: 79 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
