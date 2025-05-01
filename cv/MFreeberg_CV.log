@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.7)  30 APR 2025 17:04
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.7)  1 MAY 2025 08:28
  restricted system commands enabled.
  file:line:error style messages enabled.
 **MFreeberg_CV.tex
@@ -482,30 +482,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 61.
 
-Overfull \hbox (5.85378pt too wide) in paragraph at lines 171--172
+Overfull \hbox (5.85378pt too wide) in paragraph at lines 173--174
 \TU/Helvetica(0)/m/n/10 net-work for shar-ing hu-man ge-nomics data. \TU/Helvet
 ica(0)/m/it/10 Na-ture Ge-net-ics\TU/Helvetica(0)/m/n/10 . 2025 Mar;57(3):481-48
 5. DOI: 10.1038/s41588-
  []
 
+[1
 
-Overfull \hbox (18.1862pt too wide) in paragraph at lines 175--176
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (18.1862pt too wide) in paragraph at lines 177--178
 []\TU/Helvetica(0)/m/n/10 Dyer SC, Austine-Orimoloye O, Azov AG, \TU/Helvetica(
 0)/m/it/10 et al. \TU/Helvetica(0)/m/n/10 En-sembl 2025. \TU/Helvetica(0)/m/it/
 10 Nu-cleic Acids Re-search\TU/Helvetica(0)/m/n/10 . 2025 Jan;53(D1):D948-
  []
 
-[1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.08806pt too wide) in paragraph at lines 179--180
+Overfull \hbox (8.08806pt too wide) in paragraph at lines 181--182
 \TU/Helvetica(0)/m/n/10 and fed-er-ated ap-proaches. \TU/Helvetica(0)/m/it/10 Br
 ief-ings in Bioin-for-mat-ics\TU/Helvetica(0)/m/n/10 . 2024 May;25(4):bbae262. 
 DOI: 10.1093/bib/bbae262.
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 374--382
+Underfull \hbox (badness 10000) in paragraph at lines 381--389
 
  []
 
@@ -522,17 +522,17 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:588,3:366,4:155,5:39,6:118,7:11908,8:1,9:511,10:5,11:1017
+   avail lists: 2:616,3:373,4:167,5:39,6:123,7:11847,8:1,9:539,10:5,11:1019
  34037 multiletter control sequences out of 65536+600000
  46 fonts using 8314791 bytes
- 79i,8n,89p,397b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,8n,89p,396b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></
 System/Library/Fonts/HelveticaNeue.ttc></System/Library/Fonts/Helvetica.ttc></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MFreeberg_CV.pdf (3 pages, 73646 bytes).
+Output written on MFreeberg_CV.pdf (3 pages, 73565 bytes).
 
-PDF statistics: 77 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+PDF statistics: 79 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
