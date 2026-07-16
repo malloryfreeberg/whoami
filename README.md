@@ -12,9 +12,15 @@ I then completed a postdoctoral fellowship at Johns Hopkins University, continui
 
 During my postdoc, two key things happened that shaped the trajectory of my career. First, I gained an appreciation for the challenges facing researchers who want to re-use published datasets. Second, I joined the [Galaxy Project](https://galaxyproject.org/) team to develop and deliver bioinformatics training. These led to solidifying my passion for "Science as a Service", specifically **building and maintaining scientific services and infrastructure to support all researchers across the life sciences**.
 
-:arrow_right: Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/) and [BlueSky](https://bsky.app/profile/malloryfreeberg.bsky.social)
+:arrow_right: Connect with me on [LinkedIn](https://www.linkedin.com/in/mallory-freeberg/)
 
 :arrow_right: Check out my [CV](cv/MFreeberg_CV.pdf)
+
+### Research :microscope:
+
+:arrow_right: Browse my [Publications]({{ '/publications/' | relative_url }}) — journal articles, book chapters, and preprints
+
+:arrow_right: Browse my [Other Research Outputs]({{ '/outputs/' | relative_url }}) — posters, slides, and training materials/datasets from F1000Research and Zenodo
 
 ### Communities :raised_hands:
 
@@ -40,6 +46,7 @@ A collection of open bioinformatics tutorials and training resources developed a
 
 * [ORCID ID](https://orcid.org/0000-0003-2949-3921)
 * [Google Scholar](https://scholar.google.com/citations?user=2LCcJA0AAAAJ)
+* [Europe PMC author profile](https://europepmc.org/authors/0000-0003-2949-3921)
 * [LinkedIn profile](https://www.linkedin.com/in/mallory-freeberg/)
 * [GitHub profile](https://github.com/malloryfreeberg)
 * [View my CV](cv/MFreeberg_CV.pdf)
