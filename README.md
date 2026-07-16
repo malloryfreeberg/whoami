@@ -1,6 +1,6 @@
 ## Hello, and Welcome!
 
-I am the Human Genomics Team Leader at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) in Cambridge, UK. The Human Genomics Team provides genome variation resources as part of the [Ensembl](https://www.ensembl.org/index.html) project including the [Ensembl Variant Effect Predictor (VEP)](https://www.ensembl.org/info/docs/tools/vep/index.html) tool, human variation interpretation services such as the [DECIPHER](https://www.deciphergenomics.org/) and [Gene2Phenotype](https://www.ebi.ac.uk/gene2phenotype) platforms, as well as the [European Genome-phenome Archive](https://ega-archive.org/) (EGA) for managing sensitive human genomic and phenotypic data. The talented teams that build and maintain these resources are involved in a number of international projects and consortia that help curate, harmonise, standardise, process, display, and disseminate data to support research and clinical applications around the world.
+I am the Human Genomics Team Leader at [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/) in Cambridge, UK. The Human Genomics Team provides genome variation resources as part of the [Ensembl](https://www.ensembl.org/index.html) project including the [Ensembl Variant Effect Predictor (VEP)](https://www.ensembl.org/info/docs/tools/vep/index.html) tool, human variation interpretation services such as the [DECIPHER](https://www.deciphergenomics.org/) and [Gene2Phenotype](https://www.ebi.ac.uk/gene2phenotype) platforms, as well as the [European Genome-phenome Archive](https://ega-archive.org/) (EGA) for managing sensitive human genomic and phenotypic data. I also co-founded and now co-coordinated the [Federated EGA Network](https://ega-archive.org/about/projects-and-funders/federated-ega/), a global network of repositories enabling secure discovery and access to sensitive human data. Finally, the Human Genomics Team is the home of [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/) activities within the institute. The talented teams that build and maintain these resources are involved in a number of international projects and consortia that help curate, harmonise, standardise, process, display, and disseminate data to support research and clinical applications around the world.
 
 Previously, I was Coordinator for the EGA, a controlled access resource for managing sensitive human omics data. I was responsible for delivery of EGA services and coordinating projects with our collaborators to support our strategic goals. Prior to this, I was the EGA Project Lead for coordinating archive and distribution of nearly 20PB of whole genome sequencing data from the [UK Biobank](https://www.ukbiobank.ac.uk/) resource. I joined EMBL-EBI in 2017 as part of the [Human Cell Atlas (HCA) Data Coordination Platform](https://data.humancellatlas.org/) team, where I developed the [HCA metadata standard](https://data.humancellatlas.org/metadata) and worked closely with data generators to submit the first single cell sequencing datasets to the HCA.
 
@@ -30,13 +30,13 @@ Some really cool communities that I am proud to be associated with:
 
 A policy-framing and technical standards-setting organization seeking to enable responsible genomic data sharing within a human rights framework
 
-#### [Open Life Science](https://openlifesci.org/)
-
-A mentorship and training program for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities
-
 #### [ELIXIR](https://elixir-europe.org/)
 
 A European life sciences infrastructure organisation which brings together scientists from more than 23 countries and more than 250 research institutes to build and run services that enable researchers to access and analyse data, to improve the value and impact of life science research on public health, the environment, and the economy
+
+#### [Open Life Science](https://openlifesci.org/)
+
+A mentorship and training program for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities
 
 #### [Galaxy Training Network](https://training.galaxyproject.org/)
 
